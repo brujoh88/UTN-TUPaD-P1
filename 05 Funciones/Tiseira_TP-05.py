@@ -63,7 +63,7 @@ def calcular_promedio(a, b, c):
     promedio = (a + b + c) / 3
     print(f"El promedio de {a}, {b} y {c} es: {promedio}")
     
-print("Trabajo Práctico 4")
+print("Trabajo Práctico 5")
 print("Nombre: Tiseira, Gustavo")
 print("Eliga que ejercicio desea ejecutar")
 print("1) Ejercicio 1")
