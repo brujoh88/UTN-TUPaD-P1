@@ -1,4 +1,4 @@
-print("Trabajo Práctico 5.1")
+print("Trabajo Práctico 6")
 print("Nombre: Tiseira, Gustavo")
 print("Eliga que ejercicio desea ejecutar")
 print("1) Ejercicio 1")
